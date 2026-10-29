@@ -8,6 +8,7 @@ Software development is more than writing code. It's about learning, sharing per
 
 - **Articles & Blog Posts** — Technical deep dives, tutorials, and lessons learned.
   - 📱 [Firebase Crashlytics MCP: Bringing AI-Powered Debugging into Everyday Mobile Development](articles/firebase-crashlytics-mcp.md) ([Medium](https://medium.com/@ashrafatef843/firebase-crashlytics-mcp-bringing-ai-powered-debugging-into-everyday-mobile-development-c9425fc93a08) | [LinkedIn](https://lnkd.in/p/dbWhhQWn))
+  - 🛠️ [Draft 1: Crash-to-Fix Workflow for Claude Code](articles/crash-to-fix-workflow-draft1.md)
   - 🛠️ [Draft 2: Crash-to-Fix Workflow for Claude Code](articles/crash-to-fix-workflow-draft2.md)
 - **Thoughts & Reflections** — Ideas, opinions, and experiences from my journey.
 - **Talks & Presentations** — Slides, resources, and materials from community talks and events.

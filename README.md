@@ -10,6 +10,8 @@ Software development is more than writing code. It's about learning, sharing per
   - 📱 [Firebase Crashlytics MCP: Bringing AI-Powered Debugging into Everyday Mobile Development](articles/firebase-crashlytics-mcp.md) ([Medium](https://medium.com/@ashrafatef843/firebase-crashlytics-mcp-bringing-ai-powered-debugging-into-everyday-mobile-development-c9425fc93a08) | [LinkedIn](https://lnkd.in/p/dbWhhQWn))
   - 🛠️ [Draft 1: Crash-to-Fix Workflow for Claude Code](articles/crash-to-fix-workflow-draft1.md)
   - 🛠️ [Draft 2: Crash-to-Fix Workflow & Talk Proposal](articles/crash-to-fix-workflow-draft2.md)
+- **Interview Preparation** — Screening questions, quizzes, and technical evaluation materials.
+  - 🧠 [Kotlin & Android Concurrency Quiz](interview-preparation/screening/kotlin-android-concurrency-quiz.md)
 - **Thoughts & Reflections** — Ideas, opinions, and experiences from my journey.
 - **Talks & Presentations** — Slides, resources, and materials from community talks and events.
   - 🎤 [Stop Debugging Crashes — Let Firebase MCP Fix It! (Talk Proposal)](talks/stop-debugging-crashes.md)

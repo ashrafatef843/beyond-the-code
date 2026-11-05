@@ -13,6 +13,7 @@ Software development is more than writing code. It's about learning, sharing per
 - **Interview Preparation** — Screening questions, quizzes, and technical evaluation materials.
   - 🧠 [Kotlin & Android Concurrency Quiz](interview-preparation/screening/kotlin-android-concurrency-quiz.md)
   - ⚡ [Kotlin Coroutines: Execution Behaviour, Dispatchers, Cancellation, Exception Handling & Interview Questions](interview-preparation/kotlin-coroutines-interview-guide.md)
+  - 🤖 [How I Use AI in My Day as a Senior Software Engineer](interview-preparation/how-i-use-ai-as-a-senior-software-engineer.md)
 - **Thoughts & Reflections** — Ideas, opinions, and experiences from my journey.
 - **Talks & Presentations** — Slides, resources, and materials from community talks and events.
   - 🎤 [Stop Debugging Crashes — Let Firebase MCP Fix It! (Talk Proposal)](talks/stop-debugging-crashes.md)

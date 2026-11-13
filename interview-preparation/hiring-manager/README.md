@@ -33,3 +33,19 @@ Then I would evaluate the engineering complexity, including implementation effor
 If the value is high but the complexity is also high, I would look for a smaller first version that delivers the most important benefit. We could release it to a limited group, measure results such as customer satisfaction, support requests and task completion rates, and then decide whether to expand it.
 
 My goal is not to avoid complexity, but to make sure the complexity is justified by measurable business and customer value.
+
+---
+
+## 3. How do you integrate AI into your development workflow, and what impact has it had?
+
+> **Key Alignment:** Demonstrates end-to-end AI adoption, tool integrations (MCP, Jira, Notion, Crashlytics), and measurable engineering impact.
+
+I use AI across my entire development workflow, not just for code generation. I give it context through project documentation, knowledge bases and reusable skills, including internal company skills. I also connect it to tools like Jira, Notion, Firebase Crashlytics and Analytics through MCP integrations.
+
+This supports the whole workflow, from planning and implementation to testing and post-release monitoring.
+
+One example is production crash investigation. We used to spend around four hours reproducing crashes and finding their root causes. I introduced an AI-assisted workflow using Firebase MCP to retrieve crash reports, analyse stack traces, correlate them with analytics data and help identify fixes.
+
+As a result, we improved our crash-free rate by 4% and reduced investigation time by around 22%.
+
+The biggest benefit is that AI reduces repetitive work, giving me more time to focus on architecture, code quality and product decisions.

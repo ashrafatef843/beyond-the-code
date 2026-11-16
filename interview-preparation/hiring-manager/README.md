@@ -4,6 +4,24 @@ This document contains key preparation questions, structured answers, and strate
 
 ---
 
+## 0. Introduce yourself for thermondo
+
+> **Key Focus:** Senior Android experience, operational efficiency, customer journeys, and AI/LLM integration.
+
+I'm Ashraf, a Senior Android Engineer with over 11 years of experience across mobility, food delivery, fintech and e-commerce.
+
+Throughout my career, I've focused on three areas that I believe are particularly relevant to thermondo.
+
+**First, improving operational efficiency through mobile applications** by simplifying workflows, automating manual processes and making it easier for teams to complete their tasks. I see a strong connection with the installer journey and initiatives like ROPIN.
+
+**Second, improving customer journeys** through better communication, user engagement and analytics, helping customers understand the product, adopt new features and see its value over time. I believe this is particularly important when introducing customers to technologies like heat pumps.
+
+**Third, using AI and LLM integrations** to make processes smarter, from accessing documentation and troubleshooting to automating repetitive tasks for customers and internal teams.
+
+That's where I believe my mobile and product experience can bring value to thermondo.
+
+---
+
 ## 1. Why do you want to work at thermondo?
 
 > **Key Alignment:** Connects the mission, technology challenges, and business opportunity.

@@ -144,6 +144,15 @@ Before your next interview, use the following checklist:
 7. **Communicate with confidence:** Explain your value calmly, clearly, and honestly.
 8. **Finish with a plan:** Summarize the business challenge, suggest an initial priority, and confirm alignment.
 
+## Additional Lessons From Real Interview Experiences
+
+1. **Continuously adjust your resume:** Optimize it for AI/ATS screening by including relevant keywords, technologies, and skills for each position.
+2. **Try the CARL framework instead of STAR:** CARL stands for Context, Actions, Results, and Learnings. Adding the learning dimension can help address follow-up questions and demonstrate reflection.
+3. **Keep your stories concise:** Aim for a maximum of 3 minutes and 30 seconds per story. Use AI to help make your explanations focused and easy to follow.
+4. **Create a story preparation document:** Keep your interview stories in a Google Doc, read them aloud, and make them easily accessible during preparation.
+5. **Learn from every interview:** Treat unsuccessful interviews as opportunities to improve your stories, identify knowledge gaps, and prepare for unexpected questions.
+6. **Stay persistent and apply strategically:** Keep applying, but prioritize relevant opportunities with fewer applicants. The original poster recommends looking for positions with 10 applicants or fewer using LinkedIn filters.
+
 ## Final Thoughts
 
 The purpose of an interview is not simply to convince someone that you can perform the responsibilities listed in a job description. It is to demonstrate that you understand the organization's needs and have the experience, judgment, and ability to help address them.
@@ -154,6 +163,8 @@ Most importantly, treat the interview as a professional conversation about the v
 
 ---
 
-**Source:** [YouTube video – JY4rnwYv51A](https://www.youtube.com/watch?v=JY4rnwYv51A)
+### Resources & References
 
-*Note: The source material does not provide specific revenue, profit-margin, or hiring-conversion statistics. Its central message is that candidates should use evidence from their past achievements to demonstrate the value they could bring to a future role.*
+- **YouTube Source:** [Interview Preparation Guide – JY4rnwYv51A](https://www.youtube.com/watch?v=JY4rnwYv51A)
+- **Reddit Case Study:** [Went from no interviews and no offers after 15 months unemployed to 2 offers in the same week: Here's what I changed](https://www.reddit.com/)
+- **Original X Post:** [Ishan's post on interview strategies](https://x.com/ishanxtwt/status/2122971068382212225)

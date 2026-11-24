@@ -13,6 +13,7 @@ Software development is more than writing code. It's about learning, sharing per
   - 🎯 [Eight Interview Rules That Can Help You Stand Out and Land the Role](articles/eight-interview-rules-to-stand-out.md)
 - **Interview Preparation** — Screening questions, quizzes, and technical evaluation materials.
   - 🧠 [Kotlin & Android Concurrency Quiz](interview-preparation/screening/kotlin-android-concurrency-quiz.md)
+  - 🔍 [Technical Code Review Challenge: QuoteViewModel Refactoring](interview-preparation/screening/quote-viewmodel-code-review-challenge.md)
   - ⚡ [Kotlin Coroutines: Execution Behaviour, Dispatchers, Cancellation, Exception Handling & Interview Questions](interview-preparation/kotlin-coroutines-interview-guide.md)
   - 📘 [Kotlin Collections, Sequences, Fold & Delegation Interview Guide](interview-preparation/kotlin_interview_guide.md)
   - 🤖 [How I Use AI in My Day as a Senior Software Engineer](interview-preparation/how-i-use-ai-as-a-senior-software-engineer.md)
